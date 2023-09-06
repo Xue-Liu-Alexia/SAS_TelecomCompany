@@ -48,9 +48,7 @@ Age segments: < 20, 21-40, 41-60, 60 and above.
    
 4) Test the general association between the tenure segments and GoodCredit RatePlan and DealerType.
    
-5) Is there any association between the account status and the tenure segments?
-   
-Could you find a better tenure segmentation strategy that is more associated with the account status?
+5) Is there any association between the account status and the tenure segments? Could you find a better tenure segmentation strategy that is more associated with the account status?
 
 6) Does the Sales amount differ among different account statuses, GoodCredit, and customer age segments?
 
